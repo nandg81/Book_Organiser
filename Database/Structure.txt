@@ -1,0 +1,7 @@
+Database name: bookdb
+
+Tables:
+
+Book ( BID Bname Username Author Category Readd ImageS ImageL DateAdded Review )
+
+Users (	Email Username Password Name )
